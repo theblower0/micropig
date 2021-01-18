@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "298880513098",
+    "project_id": "micropig-fb",
+    "storage_bucket": "micropig-fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298880513098:android:a4aa0a11681101eb58a2b3",
+        "android_client_info": {
+          "package_name": "com.example.micro_pig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298880513098-e3ggcvjh93nfl651k2td9belvsmiatgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMnyE_buPs-sicwR4cFBOjYiRgG9GsdRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298880513098-e3ggcvjh93nfl651k2td9belvsmiatgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298880513098:android:cb7c0d4e25e82cf758a2b3",
+        "android_client_info": {
+          "package_name": "com.example.micropig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298880513098-e3ggcvjh93nfl651k2td9belvsmiatgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMnyE_buPs-sicwR4cFBOjYiRgG9GsdRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298880513098-e3ggcvjh93nfl651k2td9belvsmiatgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
